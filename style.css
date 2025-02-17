@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", serif;
+    text-decoration: none;
 }
 
 :root {
@@ -40,7 +41,7 @@ body {
 }
 
 .links-data input {
-    width: 70%;
+    width: 60%;
     padding: 10px;
     font-size: 16px;
     margin-right: 10px;
@@ -57,6 +58,7 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin-left: 5px;
 }
 
 .container {
